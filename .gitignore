@@ -1,0 +1,5 @@
+logs/
+dataset/
+__pycache__/
+*.pyc
+.vscode/
